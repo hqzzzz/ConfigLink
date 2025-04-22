@@ -1,7 +1,3 @@
 #分流域名->自动选择
 DOMAIN-SUFFIX,answers.microsoft.com
-<<<<<<< HEAD
-DOMAIN-SUFFIX,raw.githubusercontent.com
-=======
-DOMAIN-SUFFIX,raw.githubusercontent.com
->>>>>>> 5df6407f9b4afd69b234b12f611b7c4b591ab366
+DOMAIN-SUFFIX,www.keil.com
