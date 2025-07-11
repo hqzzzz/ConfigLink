@@ -1,4 +1,5 @@
 #分流域名->自动选择
 DOMAIN-SUFFIX,answers.microsoft.com
 #DOMAIN-SUFFIX,www.keil.com
-#DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,jellyfin.org
